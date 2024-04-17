@@ -1,4 +1,4 @@
-# ------ Laboratório DIO Azure Machine Learning ----------#
+# ------ Laboratório DIO Azure Machine Learning ----------
 
 Finalidade: Gerar modelo de ML automatizado no Azure AI 
 
